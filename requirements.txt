@@ -1,0 +1,9 @@
+streamlit
+numpy
+opencv-python
+pillow
+tensorflow
+python-dotenv
+requests
+google-generativeai
+reportlab

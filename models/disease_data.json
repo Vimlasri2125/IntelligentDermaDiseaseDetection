@@ -1,0 +1,472 @@
+{
+    "1. Eczema": {
+        "display_name": "Eczema (తామర)",
+        "symptoms": [
+            "Dry, cracked skin",
+            "Itching (pruritus)",
+            "Red to brownish-gray patches",
+            "Small, raised bumps",
+            "Thickened skin"
+        ],
+        "treatments": [
+            "Apply corticosteroids",
+            "Use calcineurin inhibitors",
+            "Phototherapy",
+            "Wet dressings",
+            "Systemic drugs (severe)"
+        ],
+        "products": [
+            "CeraVe Moisturizing Cream",
+            "Cetaphil Restoraderm Pro",
+            "Aveeno Eczema Therapy",
+            "Vaseline Healing Jelly",
+            "Eucerin Eczema Relief"
+        ],
+        "food_to_eat": [
+            "Fatty fish (salmon)",
+            "Apples",
+            "Broccoli",
+            "Spinach",
+            "Yogurt (probiotics)"
+        ],
+        "food_to_avoid": [
+            "Dairy products",
+            "Eggs",
+            "Gluten/Wheat",
+            "Nuts (if allergic)",
+            "Processed sugars"
+        ],
+        "lifestyle_changes": [
+            "Use lukewarm water for baths",
+            "Wear soft fabrics (cotton)",
+            "Manage stress",
+            "Avoid harsh soaps",
+            "Use humidifier"
+        ],
+        "emergency_warning": "Seek care if signs of infection (pus, yellow scabs), severe pain, or vision changes occur.",
+        "follow_up": "Dermatologist visit in 2 weeks for progress check."
+    },
+    "10. Warts Molluscum and other Viral Infections": {
+        "display_name": "Warts & Viral (మొటిమలు)",
+        "symptoms": [
+            "Small, fleshy bumps",
+            "Rough texture",
+            "Grainy appearance",
+            "Flesh-colored or pink",
+            "Painless usually"
+        ],
+        "treatments": [
+            "Salicylic acid peeling",
+            "Cryotherapy (freezing)",
+            "Laser treatment",
+            "Topical imiquimod",
+            "Curettage"
+        ],
+        "products": [
+            "Compound W Gel",
+            "Dr. Scholl's Freeze Away",
+            "WartStick",
+            "Salicylic Acid 17%",
+            "Thuja Ointment"
+        ],
+        "food_to_eat": [
+            "Garlic",
+            "Citrus fruits",
+            "Leafy greens",
+            "Almonds",
+            "Sunflower seeds"
+        ],
+        "food_to_avoid": [
+            "Processed foods",
+            "Sugary drinks",
+            "Alcohol",
+            "Caffeine (excess)",
+            "Red meat"
+        ],
+        "lifestyle_changes": [
+            "Don't scratch/pick warts",
+            "Keep hands clean",
+            "Don't share towels",
+            "Wear flip-flops in public showers",
+            "Cover warts with bandage"
+        ],
+        "emergency_warning": "See a doctor if warts bleed, change appearance, or spread rapidly.",
+        "follow_up": "Follow up if treatment fails after 4 weeks."
+    },
+    "2. Melanoma": {
+        "display_name": "Melanoma (మెలనోమా)",
+        "symptoms": [
+            "Asymmetrical mole",
+            "Irregular borders",
+            "Color variation",
+            "Diameter > 6mm",
+            "Evolving size/shape"
+        ],
+        "treatments": [
+            "Surgical excision (standard)",
+            "Immunotherapy",
+            "Targeted therapy",
+            "Radiation therapy",
+            "Chemotherapy"
+        ],
+        "products": [
+            "Sunscreen SPF 50+ (EltaMD)",
+            "La Roche-Posay Anthelios",
+            "Blue Lizard Sensitive",
+            "Protective clothing (UPF)",
+            "Hat/Sunglasses"
+        ],
+        "food_to_eat": [
+            "Green tea",
+            "Tomatoes (lycopene)",
+            "Carrots",
+            "Sweet potatoes",
+            "Dark chocolate"
+        ],
+        "food_to_avoid": [
+            "Processed meats",
+            "High-fat dairy",
+            "Alcohol",
+            "Artificial sweeteners",
+            "Fried foods"
+        ],
+        "lifestyle_changes": [
+            "Avoid peak sun (10am-4pm)",
+            "Daily skin self-exams",
+            "Wear sun-protective gear",
+            "No tanning beds",
+            "Yearly derm checkups"
+        ],
+        "emergency_warning": "IMMEDIATE medical attention required. Melanoma can be life-threatening if untreated.",
+        "follow_up": "Urgent referral to oncologist/dermatologist required immediately."
+    },
+    "3. Atopic Dermatitis": {
+        "display_name": "Atopic Dermatitis (ఎటోపిక్ డెర్మటైటిస్)",
+        "symptoms": [
+            "Chronic itching",
+            "Red patches",
+            "Dry skin",
+            "Inflammation",
+            "Weeping/crusting sores"
+        ],
+        "treatments": [
+            "Daily rapid moisturizing",
+            "Topical steroids",
+            "Biologics (Dupixent)",
+            "Antihistamines",
+            "Bleach baths (diluted)"
+        ],
+        "products": [
+            "Vanicream Moisturizing Cream",
+            "Aquaphor Healing Ointment",
+            "Bioderma Atoderm",
+            "Mustela Stelatopia",
+            "La Roche-Posay Lipikar"
+        ],
+        "food_to_eat": [
+            "Omega-3 rich foods",
+            "Turmeric",
+            "Ginger",
+            "Probiotic foods",
+            "Blueberries"
+        ],
+        "food_to_avoid": [
+            "Cow's milk",
+            "Soy",
+            "Peanuts",
+            "Shellfish",
+            "Citrus fruits (acidic)"
+        ],
+        "lifestyle_changes": [
+            "Short, cool showers",
+            "Pat skin dry (don't rub)",
+            "Wear loose cotton clothes",
+            "Avoid perfumes/dyes",
+            "Manage stress"
+        ],
+        "emergency_warning": "Seek help if skin looks infected (red streaks, pus, fever).",
+        "follow_up": "Regular monitoring every 3-6 months if stable."
+    },
+    "4. Basal Cell Carcinoma (BCC)": {
+        "display_name": "Basal Cell Carcinoma (బేసల్ సెల్ కార్సినోమా)",
+        "symptoms": [
+            "Pearly white/waxy bump",
+            "Flesh-colored lesion",
+            "Bleeding/scabbing sore",
+            "Raised edges",
+            "Visible blood vessels"
+        ],
+        "treatments": [
+            "Mohs surgery",
+            "Excisional surgery",
+            "Electrodessication",
+            "Topical creams (Fluorouracil)",
+            "Cryotherapy"
+        ],
+        "products": [
+            "High SPF Sunscreen",
+            "Scar sheets (post-op)",
+            "Gentle cleansers",
+            "Aquaphor for healing",
+            "Vitamin E oil"
+        ],
+        "food_to_eat": [
+            "Cruciferous vegetables",
+            "Berries",
+            "Grapes",
+            "Lean protein",
+            "Whole grains"
+        ],
+        "food_to_avoid": [
+            "Sugary snacks",
+            "Processed fats",
+            "Alcohol",
+            "Charred meats",
+            "Added sugars"
+        ],
+        "lifestyle_changes": [
+            "Strict sun protection",
+            "Regular skin checks",
+            "Protective clothing",
+            "Avoid tanning",
+            "Healthy varied diet"
+        ],
+        "emergency_warning": "Medical evaluation needed. Highly treatable but can cause local damage if ignored.",
+        "follow_up": "Follow up with dermatologist every 6-12 months."
+    },
+    "5. Melanocytic Nevi (NV)": {
+        "display_name": "Melanocytic Nevi (పుట్టుమచ్చలు)",
+        "symptoms": [
+            "Brown/pink spot",
+            "Uniform color",
+            "Round/oval shape",
+            "Distinct border",
+            "Usually <6mm"
+        ],
+        "treatments": [
+            "Observation (usually benign)",
+            "Surgical removal (if cosmetic)",
+            "Shave biopsy (if suspicious)",
+            "Laser removal",
+            "Cryotherapy"
+        ],
+        "products": [
+            "Broad-spectrum Sunscreen",
+            "Aloe Vera Gel",
+            "Vitamin C Serum",
+            "Hydrocolloid patches",
+            "Gentle moisturizer"
+        ],
+        "food_to_eat": [
+            "Antioxidant-rich foods",
+            "Colorful veggies",
+            "Nuts/Seeds",
+            "Water",
+            "Green leafy veg"
+        ],
+        "food_to_avoid": [
+            "Pro-inflammatory foods",
+            "Excess sugar",
+            "Fast food",
+            "Soda",
+            "Heavy alcohol"
+        ],
+        "lifestyle_changes": [
+            "Monitor for ABCD changes",
+            "Sun protection",
+            "Avoid scratching",
+            "Annual skin check",
+            "Keep skin hydrated"
+        ],
+        "emergency_warning": "See doctor if mole changes color, shape, size, or bleeds.",
+        "follow_up": "Annual routine check-up."
+    },
+    "6. Benign Keratosis-like Lesions (BKL)": {
+        "display_name": "Benign Keratosis (నిరపాయమైన కెరాటోసిస్)",
+        "symptoms": [
+            "Waxy or scaly growth",
+            "Stuck-on appearance",
+            "Brown/black/tan color",
+            "Rough surface",
+            "Slow growing"
+        ],
+        "treatments": [
+            "Cryotherapy",
+            "Curettage",
+            "Electrocautery",
+            "Laser therapy",
+            "No treatment needed (often)"
+        ],
+        "products": [
+            "Ammonium Lactate Lotion",
+            "Urea Cream",
+            "Salicylic Acid Wash",
+            "Gentle Exfoliant",
+            "Moisturizer"
+        ],
+        "food_to_eat": [
+            "Vitamin D sources",
+            "Fish",
+            "Eggs",
+            "Mushrooms",
+            "Fortified milk"
+        ],
+        "food_to_avoid": [
+            "High glycemic foods",
+            "Junk food",
+            "Excessive dairy",
+            "Greasy foods",
+            "Beer"
+        ],
+        "lifestyle_changes": [
+            "Protect from trauma",
+            "Sunscreen use",
+            "Regular moisturizing",
+            "Avoid picking",
+            "Good hygiene"
+        ],
+        "emergency_warning": "Consult if lesion bleeds, grows rapidly, or turns black.",
+        "follow_up": "Routine observation."
+    },
+    "7. Psoriasis pictures Lichen Planus and related diseases": {
+        "display_name": "Psoriasis (సోరియాసిస్)",
+        "symptoms": [
+            "Red patches with silver scales",
+            "Itching/burning to soreness",
+            "Thickened/pitted nails",
+            "Swollen joints",
+            "Dry skin"
+        ],
+        "treatments": [
+            "Corticosteroids",
+            "Vitamin D analogues",
+            "Biologics",
+            "Retinoids",
+            "Light therapy"
+        ],
+        "products": [
+            "Coal Tar Shampoo/Soap",
+            "Salicylic Acid Cream",
+            "MG217 Ointment",
+            "Gold Bond Psoriasis Relief",
+            "CeraVe Psoriasis Cleanser"
+        ],
+        "food_to_eat": [
+            "Anti-inflammatory fats",
+            "Olive oil",
+            "Pumpkin seeds",
+            "Cold-water fish",
+            "Avocado"
+        ],
+        "food_to_avoid": [
+            "Red meat",
+            "Refined sugar",
+            "Processed foods",
+            "Nightshades (tomatoes/potatoes)",
+            "Alcohol"
+        ],
+        "lifestyle_changes": [
+            "Daily baths",
+            "Moisturize frequently",
+            "Quit smoking",
+            "Reduce stress",
+            "Get sunlight (moderate)"
+        ],
+        "emergency_warning": "Seek help for severe flare-ups or joint pain (psoriatic arthritis).",
+        "follow_up": "Regular management with dermatologist."
+    },
+    "8. Seborrheic Keratoses and other Benign Tumors": {
+        "display_name": "Seborrheic Keratoses (సెబోర్హెయిక్ కెరాటోసెస్)",
+        "symptoms": [
+            "Wart-like growth",
+            "Waxy 'pasted on' look",
+            "Brown/black/tan",
+            "Round/oval",
+            "Flat or slightly raised"
+        ],
+        "treatments": [
+            "Cryosurgery",
+            "Curettage",
+            "Electrocautery",
+            "Ablative laser",
+            "Observation"
+        ],
+        "products": [
+            "Alpha Hydroxy Acid (AHA)",
+            "Glycolic Acid wash",
+            "Lac-Hydrin",
+            "Retinol cream",
+            "Daily sunscreen"
+        ],
+        "food_to_eat": [
+            "Fruits and Veggies",
+            "Lean meats",
+            "Whole grains",
+            "Water",
+            "Fiber-rich foods"
+        ],
+        "food_to_avoid": [
+            "High sugar diet",
+            "Saturated fats",
+            "Processed snacks",
+            "White bread",
+            "Soda"
+        ],
+        "lifestyle_changes": [
+            "Sun protection",
+            "Gentle skin care",
+            "Avoid irritation",
+            "Annual checks",
+            "Don't pick/scratch"
+        ],
+        "emergency_warning": "See doctor if many appear suddenly (Sign of Leser-Trélat).",
+        "follow_up": "Not urgent usually; monitor for changes."
+    },
+    "9. Tinea Ringworm Candidiasis and other Fungal Infections": {
+        "display_name": "Tinea/Ringworm (తామర/గజ్జి)",
+        "symptoms": [
+            "Ring-shaped rash",
+            "Red/scaly border",
+            "Itching",
+            "Clear center (sometimes)",
+            "Cracking/peeling skin"
+        ],
+        "treatments": [
+            "Antifungal creams (Clotrimazole)",
+            "Oral antifungals",
+            "Keep area dry",
+            "Powders",
+            "Hygiene"
+        ],
+        "products": [
+            "Lotrimin Ultra",
+            "Lamisil AT",
+            "Tinactin",
+            "Terrasil",
+            "Antifungal soap"
+        ],
+        "food_to_eat": [
+            "Garlic (antifungal)",
+            "Coconut oil",
+            "Ginger",
+            "Yogurt",
+            "Low-sugar fruits"
+        ],
+        "food_to_avoid": [
+            "Sugar",
+            "Yeast products",
+            "Beer/Wine",
+            "Refined carbs",
+            "Mushrooms"
+        ],
+        "lifestyle_changes": [
+            "Change socks/underwear daily",
+            "Dry thoroughly after bathing",
+            "Loose clothing",
+            "Don't share personal items",
+            "Wash clothes in hot water"
+        ],
+        "emergency_warning": "Consult if rash spreads, swells, or doesn't improve after 2 weeks.",
+        "follow_up": "Re-evaluate if not cleared in 2-4 weeks."
+    }
+}
