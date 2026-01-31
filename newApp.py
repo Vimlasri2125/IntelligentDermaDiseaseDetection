@@ -20,7 +20,7 @@ groq_client = Groq(api_key=api_key)
 # STREAMLIT CONFIG
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Skin Disease Detection",
+    page_title="Intelligent Derma Disease Detection",
     page_icon="🩺",
     layout="centered"
 )
@@ -78,7 +78,7 @@ def predict_skin_disease(image):
     return CLASS_LABELS[idx], confidence
 
 # --------------------------------------------------
-# GROQ INTEGRATION (REPLACED GEMINI)
+# GROQ INTEGRATION
 # --------------------------------------------------
 def generate_disease_info(disease_name, confidence):
     if not api_key:
